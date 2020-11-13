@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gh-pages-github-api/static/css/main.9c697469.chunk.css",
+    "main.js": "/gh-pages-github-api/static/js/main.0bf2f9e3.chunk.js",
+    "main.js.map": "/gh-pages-github-api/static/js/main.0bf2f9e3.chunk.js.map",
+    "runtime-main.js": "/gh-pages-github-api/static/js/runtime-main.1c96ae00.js",
+    "runtime-main.js.map": "/gh-pages-github-api/static/js/runtime-main.1c96ae00.js.map",
+    "static/css/2.496cf65a.chunk.css": "/gh-pages-github-api/static/css/2.496cf65a.chunk.css",
+    "static/js/2.67ca5a9c.chunk.js": "/gh-pages-github-api/static/js/2.67ca5a9c.chunk.js",
+    "static/js/2.67ca5a9c.chunk.js.map": "/gh-pages-github-api/static/js/2.67ca5a9c.chunk.js.map",
+    "index.html": "/gh-pages-github-api/index.html",
+    "static/css/2.496cf65a.chunk.css.map": "/gh-pages-github-api/static/css/2.496cf65a.chunk.css.map",
+    "static/css/main.9c697469.chunk.css.map": "/gh-pages-github-api/static/css/main.9c697469.chunk.css.map",
+    "static/js/2.67ca5a9c.chunk.js.LICENSE.txt": "/gh-pages-github-api/static/js/2.67ca5a9c.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/gh-pages-github-api/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c96ae00.js",
+    "static/css/2.496cf65a.chunk.css",
+    "static/js/2.67ca5a9c.chunk.js",
+    "static/css/main.9c697469.chunk.css",
+    "static/js/main.0bf2f9e3.chunk.js"
+  ]
+}
